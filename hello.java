@@ -11,7 +11,8 @@ public class hello {
 	String name = "Alex";
 		
 	String username = in.nextLine();
-		
+	
+	// output username string
 	System.out.println("Hello " + username ", my name is " + name);
     }
 }
